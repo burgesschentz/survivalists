@@ -14,6 +14,7 @@ animals are user defined
 3. animals can move by 1 each turn
 
 4. at the end of the turn. god examines each cell. If there are more than 1 animal, the one with more food wins. god generate an image here
+  the strategy of reproducing is flexible. Users can me more offspring, or less. some more gressive than others.
 
 5. animals can reproduce, reproductions rules undecided.
 
